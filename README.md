@@ -104,7 +104,7 @@ home: {
   }
 }
 ```
-
+```
 ---
 
 ## Screenshots
@@ -112,7 +112,7 @@ home: {
 <!-- > ![Web UI Example](./public/vite.svg) -->
 ---
 ## Collaboration
-
+```
 ---
 
 ## License
